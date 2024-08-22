@@ -48,7 +48,8 @@
 [CHAT GPT](https://chatgpt.com/)
 [MDN WEB DOCS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Indexed_collections)
  
-## ``Autor``
+## ``Autores``
+
 [Leonardo Rocha](https://github.com/LeonardoRochaMarista)
 
 [Camila Casagrande Garcia](https://github.com/camilacasagrande)
